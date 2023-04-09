@@ -96,24 +96,3 @@
 <div align="right"><img src="https://github-readme-stats.vercel.app/api?username=HarunDerin&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
