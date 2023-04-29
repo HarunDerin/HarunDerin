@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">42 istanbul 👨‍💻 Pool Student 🚀</div>  
+### <div align="center">42 istanbul 👨‍💻 Main Education Student 🚀</div>  
   
 
 **<div align="center">💯 Harun "hderin" Derin 💯</div>**  
